@@ -16,7 +16,17 @@ more_movies = [
   {:title => 'Nomadland', :rating => 'R',
    :release_date => '19-Feb-2021'},
   {:title => 'CODA', :rating => 'PG-13',
-   :release_date => '13-Aug-2021'}
+   :release_date => '13-Aug-2021'},
+  {:title => 'The Shining', :rating => 'R',
+   :release_date => '23-May-1980'},
+  {:title => 'Seven Samurai', :rating => 'Not Rated',
+   :release_date => '26-April-1954'},
+  {:title => 'The Decameron', :rating => 'R',
+   :release_date => '12-Dec-1971'},
+  {:title => 'Rear Window', :rating => 'PG',
+   :release_date => '04-Aug-1954'},
+  {:title => 'Love in the Afternoon', :rating => 'Not Rated',
+   :release_date => '30-June-1957'}
 ]
 
 more_movies.each do |movie|
